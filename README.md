@@ -1,4 +1,4 @@
-# Project Title
+# Scala-Spark Notebooks
 
 Scala and Spark for beginners.
 These notebooks introduce the basic concepts to put your hands on the Scala programming language and the Spark framework.
