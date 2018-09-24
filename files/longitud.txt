@@ -1,0 +1,3 @@
+﻿Primera línea (18)
+Segunda línea con una longitud bastante mayor que el resto (63)
+Tercera línea de longitud media (36)
